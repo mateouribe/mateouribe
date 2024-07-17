@@ -12,7 +12,7 @@
  📚 I’m currently learning **Next.JS, Flutter**
  </div>
  
-<div align="center"> 
+<div align="center" justify="center"> 
   <a href="https://www.linkedin.com/in/mateo-arismendy-uribe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
