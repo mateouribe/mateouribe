@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 📚 I’m currently learning **Next.JS, Flutter**
+ 📚 I’m currently working with **Next.JS, Flutter**
  </div>
  
 <div align="center" justify="center"> 
