@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,react,css,html,bootstrap,firebase,postman, jest,cs,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=azure,git,mysql,wordpress,ai,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=next,azure,git,mysql,wordpress,ai,figma" /><br>
 </div>
 <br/><br/>
 <div align="center"><img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateouribe&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats" /></div>
