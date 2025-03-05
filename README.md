@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 📚 I’m currently working with **Next.JS, Flutter**
+ 📚 I’m currently working with **Next.JS, React Native and GraphQL**
  </div>
  
 <div align="center" justify="center"> 
