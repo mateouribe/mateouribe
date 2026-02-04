@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 📚 I’m currently working with **Next.JS, React Native and GraphQL**
+ 📚 I’m currently working with **Next.JS, React Native, HubSpot, Make and Google Services**
  </div>
  
 <div align="center" justify="center"> 
